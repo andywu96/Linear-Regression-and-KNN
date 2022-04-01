@@ -24,4 +24,4 @@ This is one of the HW assignment at USC, using Linear Regression to find the bes
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
-(regression.png)
+![data_science](regression.png)
