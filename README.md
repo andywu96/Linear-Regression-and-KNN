@@ -16,14 +16,11 @@
 This is one of the HW assignment at USC, using Linear Regression to find the best test and train error.
 
 1. Pre-Processing and Exploratory data analysis
-2. k-nearest neighbors with Euclidean metric
-3. Find a Learning Curve
-4. KNN with different distance metrics
-   - Manhattan Distance
-   - Chebyshev Distance   
-   - Mahalanobis Distance
-5. Weighted distances
-
+2. Simple linear regression model
+3. Multiple regression model
+4. Evidence of nonlinear association of interactions of predictors with the response
+5. Backward selection for the best Model 
+6. KNN Regression
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
