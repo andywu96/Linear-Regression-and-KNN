@@ -27,3 +27,6 @@ This is one of the HW assignment at USC, using Linear Regression to find the bes
 
 ## Linear Regression model
 ![data_science](regression.png)
+
+## KNN
+![data_science](KNN.jpg)
